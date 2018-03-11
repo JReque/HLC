@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pr5_layouts</string>
+    <string name="ok">ok</string>
+    <string name="cell_3">cell_3</string>
+    <string name="cell_2">cell_2</string>
+    <string name="cell_1">cell_1</string>
+    <string name="cell_0">cell_0</string>
+</resources>

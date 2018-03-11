@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="10">
+
+    <TextView
+        android:text="@string/cell_0"
+        android:layout_marginBottom="40dp"/>
+
+    <TextView
+        android:text="@string/cell_1"/>
+
+    <TextView
+        android:text="@string/cell_2"/>
+
+    <TextView
+        android:text="@string/cell_3" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ok" />
+</GridLayout>

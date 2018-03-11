@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="conecta.proyecto.com.conecta4.MainActivity"
+    android:background="@color/ligthDark"
+    android:stretchColumns="7">
+
+    <TableRow style="@style/tableRow">
+
+        <ImageView
+            android:id="@+id/b00"
+            style="@style/c4Button" android:contentDescription="@string/todo" />
+        <ImageView style="@style/c4Button"
+            android:id="@+id/b01" android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b02"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b03"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b04"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b05"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b06"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+    </TableRow>
+    <TableRow style="@style/tableRow">
+
+        <ImageView
+            android:id="@+id/b10"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b11"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b12"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b13"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b14"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b15"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b16"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+    </TableRow>
+    <TableRow style="@style/tableRow">
+
+        <ImageView
+            android:id="@+id/b20"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b21"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b22"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b23"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b24"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b25"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b26"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+    </TableRow>
+    <TableRow style="@style/tableRow">
+
+        <ImageView
+            android:id="@+id/b30"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b31"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b32"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b33"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b34"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b35"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b36"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+    </TableRow>
+    <TableRow style="@style/tableRow">
+        <ImageView style="@style/c4Button"
+            android:id="@+id/b40" android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b41"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b42"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b43"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b44"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b45"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b46"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+    </TableRow>
+    <TableRow style="@style/tableRow">
+
+        <ImageView
+            android:id="@+id/b50"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+        <ImageView style="@style/c4Button"
+            android:id="@+id/b51" android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b52"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b53"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b54"
+            style="@style/c4Button"
+            android:contentDescription="@string/todo" />
+        <ImageView style="@style/c4Button"
+            android:id="@+id/b55" android:contentDescription="@string/todo" />
+
+        <ImageView
+            android:id="@+id/b56"
+            style="@style/c4Button" android:contentDescription="@string/todo" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica_8</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="i_m_so_humgry">I\'m so humgry</string>
+</resources>

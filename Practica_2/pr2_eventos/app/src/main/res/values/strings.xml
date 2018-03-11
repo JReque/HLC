@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pr2_eventos</string>
+    <string name="status">status</string>
+    <string name="press_me">press_me</string>
+</resources>
